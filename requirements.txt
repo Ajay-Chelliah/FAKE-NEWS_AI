@@ -1,0 +1,11 @@
+transformers 
+torch 
+torchvision 
+sentencepiece 
+datasets 
+flask 
+fastapi 
+uvicorn 
+pyodide-http
+protobuf
+pycaret
