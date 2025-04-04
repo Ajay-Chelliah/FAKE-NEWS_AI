@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Not Found</title></head>
+<body>
+<h1>404 Not Found</h1>
+<ul>
+<li>Code: NoSuchKey</li>
+<li>Message: The specified key does not exist.</li>
+<li>Key: v0.25.0/full/packages/micropip.json</li>
+<li>RequestId: DVQ9TA9KSS48TZNF</li>
+<li>HostId: HF09LkC/JbNcDbmRrdf2w3c8v9UzfHDYNFk+LypQIXNeItHnq5pY/beWOQknFEzoFkoJiRsg3wMLE/1MI7VPbf74FNEFRBrc</li>
+</ul>
+<hr/>
+</body>
+</html>
